@@ -20,7 +20,7 @@ A modern, responsive portfolio website showcasing my skills as a Software Develo
 
 ## 🚀 Live Demo
 
-Visit the live portfolio: [Portfolio Website](https://amaravenkatesh45.github.io/Amars-Portfolio/)
+Visit the live portfolio: [Portfolio Website](https://amaravenkatesh45.github.io/My-PortFolio/)
 
 ## 📱 Sections
 
